@@ -53,7 +53,7 @@ timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
 
 ### 2024.09.23
 
-WTF Academy Solidity 101 1-4
+Class: WTF Academy Solidity 101 1-4
 
 Key points：
 - `address` size = 20 byte
